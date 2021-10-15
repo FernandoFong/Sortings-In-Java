@@ -1,0 +1,8 @@
+public class Sortings {
+
+
+    public static void quicksort(T extends Comparable<T> [] arr) {
+	
+    }
+    
+}
